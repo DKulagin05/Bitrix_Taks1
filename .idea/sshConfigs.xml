@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="kulagin.45-86-181-97.ip.dev.2204535.ru" id="74dacc49-4c8d-4bb8-813f-97470ae9a31b" port="22" nameFormat="DESCRIPTIVE" username="kulagin" />
+    </configs>
+  </component>
+</project>

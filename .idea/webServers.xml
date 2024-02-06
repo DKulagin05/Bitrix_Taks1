@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6b323091-4285-4b77-9712-cf754bb2275e" name="bitrixFTP" url="http://eY1[pI6{kM5!rF7&amp;mO4/1">
+        <fileTransfer host="eY1[pI6{kM5!rF7&amp;mO4/1" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b43bd17f-cc8b-4a1a-92bf-be925b6e0181" name="bitrixSFTP" url="http://kulagin.45-86-181-97.ip.dev.2204535.ru">
+        <fileTransfer rootFolder="/home/kulagin" accessType="SFTP" host="kulagin.45-86-181-97.ip.dev.2204535.ru" port="22" sshConfigId="74dacc49-4c8d-4bb8-813f-97470ae9a31b" sshConfig="kulagin@kulagin.45-86-181-97.ip.dev.2204535.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
